@@ -5,3 +5,4 @@
 openjdk:8
 linkedin/datahub:debug
 mysql:8.0
+cr.weaviate.io/semitechnologies/weaviate:1.29.0
