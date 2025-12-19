@@ -6,3 +6,4 @@ openjdk:8
 linkedin/datahub:debug
 mysql:8.0
 cr.weaviate.io/semitechnologies/weaviate:1.29.0
+pytorch/pytorch:2.5.1-cuda12.4-cudnn9-devel
